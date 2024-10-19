@@ -40,3 +40,5 @@ Both the system and the mobile app should be on the same wifi network.
 ```bash
  node server.js
 ```
+
+For any problem regarding deployment contact : sachansujal773@gmail.com
